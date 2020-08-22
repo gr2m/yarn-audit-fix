@@ -1,3 +1,10 @@
+## [2.0.6](https://github.com/gr2m/yarn-audit-fix/compare/v2.0.5...v2.0.6) (2020-08-22)
+
+
+### Bug Fixes
+
+* package update ([44b2bd9](https://github.com/gr2m/yarn-audit-fix/commit/44b2bd95d44eeb069c28914da2ad395dff99f135))
+
 ## [2.0.5](https://github.com/antongolub/yarn-audit-fix/compare/v2.0.4...v2.0.5) (2020-08-22)
 
 

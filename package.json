@@ -1,6 +1,6 @@
 {
-  "name": "yarn-audit-fix",
-  "version": "2.0.5",
+  "name": "gr2m-debug-yarn-audit-fix",
+  "version": "2.0.5-test.1",
   "private": false,
   "description": "Apply `npm audit fix` logic to `yarn.lock`",
   "bin": {
@@ -39,7 +39,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/antongolub/yarn-audit-fix.git"
+    "url": "https://github.com/gr2m/yarn-audit-fix.git"
   },
   "keywords": [
     "yarn-audit-fix",
